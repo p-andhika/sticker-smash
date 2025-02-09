@@ -43,7 +43,9 @@
     "react-native-webview": "13.12.5",
     "tailwindcss": "^4.0.3",
     "expo-image": "~2.0.4",
-    "expo-image-picker": "~16.0.5"
+    "expo-image-picker": "~16.0.5",
+    "expo-media-library": "~17.0.5",
+    "react-native-view-shot": "~4.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
